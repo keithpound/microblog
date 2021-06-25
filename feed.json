@@ -7,12 +7,21 @@
 	"items": [
 		
 			{
+				"id": "http://KeithPound.micro.blog/2021/06/25/listening-to-the.html",
+				
+				"content_html": "<p>Listening to the new album from <em>Hiss Golden Messenger</em> this morning whilst doing the weekly reports...</p>\n<iframe src=\"https://open.spotify.com/embed/album/1iNOO5VSJciTGogwlClRsa\" width=\"100%\" height=\"380\" frameBorder=\"0\" allowtransparency=\"true\" allow=\"encrypted-media\"></iframe>\n<p>🎶</p> \n",
+				"content_text": "<p>Listening to the new album from <em>Hiss Golden Messenger</em> this morning whilst doing the weekly reports...</p>\r\n<iframe src=\"https://open.spotify.com/embed/album/1iNOO5VSJciTGogwlClRsa\" width=\"100%\" height=\"380\" frameBorder=\"0\" allowtransparency=\"true\" allow=\"encrypted-media\"></iframe>\r\n<p>🎶</p> \n",
+				"date_published": "2021-06-25T09:25:43+01:00",
+				"url": "https://keithpound.com/2021/06/25/listening-to-the.html"
+			},
+			{
 				"id": "http://KeithPound.micro.blog/2021/06/07/my-album-of.html",
 				
-				"content_html": "<p>My Album of the week is .... <em>Blue Weekend</em> from <em>Wolf Alice.</em></p>\n<p>Listen on <a href=\"https://tidal.com/browse/album/171913496\" target=\"_blank\">Tidal</a>.</p>\n<div style=\"position: relative; padding-bottom: 100%; height: 0; overflow: hidden; max-width: 100%;\"><iframe src=\"https://embed.tidal.com/albums/171913496?layout=gridify\" frameborder=\"0\" allowfullscreen style=\"position: absolute; top: 0; left: 0; width: 75%; height: 1px; min-height: 75%; margin: 0 auto;\"></iframe></div>\n<p>🎶</p>\n",
-				"content_text": "<p>My Album of the week is .... <em>Blue Weekend</em> from <em>Wolf Alice.</em></p>\n<p>Listen on <a href=\"https://tidal.com/browse/album/171913496\" target=\"_blank\">Tidal</a>.</p>\n<div style=\"position: relative; padding-bottom: 100%; height: 0; overflow: hidden; max-width: 100%;\"><iframe src=\"https://embed.tidal.com/albums/171913496?layout=gridify\" frameborder=\"0\" allowfullscreen style=\"position: absolute; top: 0; left: 0; width: 75%; height: 1px; min-height: 75%; margin: 0 auto;\"></iframe></div>\n<p>🎶</p>\n",
-				"date_published": "2021-06-07T09:24:55+01:00",
-				"url": "https://keithpound.com/2021/06/07/my-album-of.html"
+				"content_html": "<p>My Album of the week is .... <em>Blue Weekend</em> from <em>Wolf Alice.</em></p>\n<p>Listen on <a href=\"https://open.spotify.com/album/5OxxXTUecFQgCVqztbcynb?si=b1ZXSCZgSWWtPBmtojNHaQ&dl_branch=1\" target=\"_blank\">Spotify</a>.</p>\n<iframe src=\"https://open.spotify.com/embed/album/5OxxXTUecFQgCVqztbcynb\" width=\"100%\" height=\"380\" frameBorder=\"0\" allowtransparency=\"true\" allow=\"encrypted-media\"></iframe>\n<p>🎶</p>\n",
+				"content_text": "<p>My Album of the week is .... <em>Blue Weekend</em> from <em>Wolf Alice.</em></p>\n<p>Listen on <a href=\"https://open.spotify.com/album/5OxxXTUecFQgCVqztbcynb?si=b1ZXSCZgSWWtPBmtojNHaQ&dl_branch=1\" target=\"_blank\">Spotify</a>.</p>\n<iframe src=\"https://open.spotify.com/embed/album/5OxxXTUecFQgCVqztbcynb\" width=\"100%\" height=\"380\" frameBorder=\"0\" allowtransparency=\"true\" allow=\"encrypted-media\"></iframe>\n<p>🎶</p>\n",
+				"date_published": "2021-06-07T09:24:00+01:00",
+				"url": "https://keithpound.com/2021/06/07/my-album-of.html",
+				"tags": ["music"]
 			},
 			{
 				"id": "http://KeithPound.micro.blog/2021/06/07/i-really-liked.html",
