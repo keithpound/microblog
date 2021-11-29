@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://KeithPound.micro.blog/2021/11/26/ive-written-a.html",
+				
+				"content_html": "<p>I&rsquo;ve written a rule to move any email with &ldquo;Black Friday&rdquo; in the subject field to the bin&hellip;..</p>\n",
+				"content_text": "I've written a rule to move any email with \"Black Friday\" in the subject field to the bin.....\n",
+				"date_published": "2021-11-26T14:07:06+00:00",
+				"url": "https://keithpound.com/2021/11/26/ive-written-a.html",
+				"tags": ["technology"]
+			},
+			{
+				"id": "http://KeithPound.micro.blog/2021/11/23/peppa-pig-and.html",
+				
+				"content_html": "<p>Peppa Pig and prolonged pauses – it is, I think, time to start worrying about the prime minister.</p>\n\n<blockquote>\n<p>At the end of this speech, in an interview with ITV, the interviewer, having watched the speech, and gauged the audience reaction, saw fit to pose the following question: <em>“Is everything OK, prime minister?”</em></p>\n</blockquote>\n\n<p><a href=\"https://www.independent.co.uk/voices/boris-johnson-speech-peppa-pig-cbi-b1962169.html\">Read more on <em>The Independent</em></a></p>\n\n<p><img src=\"uploads/2021/b561f8783d.png\" width=\"600\" height=\"443\" alt=\"boris & peppa pig\" /></p>\n",
+				"content_text": "Peppa Pig and prolonged pauses – it is, I think, time to start worrying about the prime minister.\n\n> At the end of this speech, in an interview with ITV, the interviewer, having watched the speech, and gauged the audience reaction, saw fit to pose the following question: *“Is everything OK, prime minister?”*\n\n[Read more on *The Independent*](https://www.independent.co.uk/voices/boris-johnson-speech-peppa-pig-cbi-b1962169.html)\n\n<img src=\"uploads/2021/b561f8783d.png\" width=\"600\" height=\"443\" alt=\"boris & peppa pig\" />\n",
+				"date_published": "2021-11-23T08:34:00+00:00",
+				"url": "https://keithpound.com/2021/11/23/peppa-pig-and.html",
+				"tags": ["politics"]
+			},
+			{
 				"id": "http://KeithPound.micro.blog/2021/11/22/listening-to-raise.html",
 				
 				"content_html": "<p>Listening to <em>Raise The Roof</em>, the new album from <em>Robert Plant and Alison Krauss</em>. the long-awaited follow up from Raising Sand.</p>\n\n<p><a href=\"https://open.spotify.com/album/48wFAtpgBV5rUTTDrNKCoN?si=u-hU1zFLTRqGvzB8XvpcVg\">Listen on Spotify.</a></p>\n\n<iframe src=\"https://open.spotify.com/embed/album/48wFAtpgBV5rUTTDrNKCoN?utm_source=generator&amp;theme=0\" width=\"100%\" height=\"380\" frameBorder=\"0\" allowfullscreen=\"\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\"></iframe>\n",
@@ -83,9 +101,9 @@
 				
 				"content_html": "<p>What happened in the House of Commons yesterday was so foul, the stench might never clear.</p>\n\n<blockquote>\n<p>What happened on Wednesday afternoon in the House of Commons was absolutely not a politician making the rules then failing to abide by them himself. It was a politician, having been found utterly in breach of them, entirely and unequivocally bang to rights, and responding by having his mates, and the government itself, just rip the rules up altogether.</p>\n</blockquote>\n\n<p><a href=\"https://www.independent.co.uk/voices/owen-paterson-lobbying-tory-sleaze-boris-johnson-b1950879.html\">Read the full article here</a></p>\n\n<p><img src=\"uploads/2021/a248b704cd.png\" width=\"300\" height=\"252\" alt=\"johnson wallowing in sleeze\" />\n<em>From The Independent</em></p>\n",
 				"content_text": "What happened in the House of Commons yesterday was so foul, the stench might never clear.\n\n> What happened on Wednesday afternoon in the House of Commons was absolutely not a politician making the rules then failing to abide by them himself. It was a politician, having been found utterly in breach of them, entirely and unequivocally bang to rights, and responding by having his mates, and the government itself, just rip the rules up altogether.\n\n[Read the full article here](https://www.independent.co.uk/voices/owen-paterson-lobbying-tory-sleaze-boris-johnson-b1950879.html)\n\n<img src=\"uploads/2021/a248b704cd.png\" width=\"300\" height=\"252\" alt=\"johnson wallowing in sleeze\" />\n*From The Independent*\n",
-				"date_published": "2021-11-04T08:33:38+00:00",
+				"date_published": "2021-11-04T08:33:00+00:00",
 				"url": "https://keithpound.com/2021/11/04/what-happened-in.html",
-				"tags": ["photography","politics"]
+				"tags": ["politics"]
 			},
 			{
 				"id": "http://KeithPound.micro.blog/2021/11/02/first-frost-of.html",
