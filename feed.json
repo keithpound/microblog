@@ -7,6 +7,42 @@
 	"items": [
 		
 			{
+				"id": "http://KeithPound.micro.blog/2022/09/13/i-spent-too.html",
+				
+				"content_html": "<p>I spent too long setting up Personalised Spatial Audio after upgrading to iOS 16 on my iPhone. Apple expects you to scan your ears and follow instructions when you can&rsquo;t see what&rsquo;s on the screen&hellip;. <strong>Tip: use screen mirroring.</strong></p>\n",
+				"content_text": "I spent too long setting up Personalised Spatial Audio after upgrading to iOS 16 on my iPhone. Apple expects you to scan your ears and follow instructions when you can't see what's on the screen.... **Tip: use screen mirroring.**\n",
+				"date_published": "2022-09-13T13:20:30+01:00",
+				"url": "https://keithpound.com/2022/09/13/i-spent-too.html",
+				"tags": ["technology"]
+			},
+			{
+				"id": "http://KeithPound.micro.blog/2022/09/12/listening-to-fm.html",
+				
+				"content_html": "<p>Listening to <em>FM</em>, the new offering from <em>Ryan Adams</em>. I&rsquo;ve been a fan since I first heard <em>Heartbreaker</em>, released in 2000, and I think he&rsquo;s on top form with the new album. 🎶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Listening to _FM_, the new offering from _Ryan Adams_. I've been a fan since I first heard _Heartbreaker_, released in 2000, and I think he's on top form with the new album. 🎶\r\n\r\n<iframe allow=\"autoplay *; encrypted-media *; fullscreen *; clipboard-write\" frameborder=\"0\" height=\"450\" style=\"width:100%;max-width:660px;overflow:hidden;background:transparent;\" sandbox=\"allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation\" src=\"https://embed.music.apple.com/gb/album/fm/1632953597\"></iframe>\n",
+				"date_published": "2022-09-12T11:52:40+01:00",
+				"url": "https://keithpound.com/2022/09/12/listening-to-fm.html",
+				"tags": ["music"]
+			},
+			{
+				"id": "http://KeithPound.micro.blog/2022/09/11/finished-reading-the.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781537016498\">The Larmenius Inheritance</a> by John Paul Davis 📚</p>\n",
+				"content_text": "Finished reading: [The Larmenius Inheritance](https://micro.blog/books/9781537016498) by John Paul Davis 📚\n",
+				"date_published": "2022-09-11T19:11:40+01:00",
+				"url": "https://keithpound.com/2022/09/11/finished-reading-the.html",
+				"tags": ["books"]
+			},
+			{
+				"id": "http://KeithPound.micro.blog/2022/09/10/just-finished-my.html",
+				
+				"content_html": "<p>Just finished my shift behind the bar at the village beer and sausage festival. Time for a beer 🍺</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Just finished my shift behind the bar at the village beer and sausage festival. Time for a beer 🍺 \n\n<img src=\"uploads/2022/17b06ef539.jpg\" width=\"450\" height=\"600\" alt=\"photo of beer and cider\" />\n",
+				"date_published": "2022-09-10T16:30:45+01:00",
+				"url": "https://keithpound.com/2022/09/10/just-finished-my.html",
+				"tags": ["photography"]
+			},
+			{
 				"id": "http://KeithPound.micro.blog/2022/09/06/mist-over-the.html",
 				
 				"content_html": "<p>Mist over the fields in the early morning 📷</p>\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
@@ -37,7 +73,7 @@
 				"id": "http://KeithPound.micro.blog/2022/08/28/not-a-good.html",
 				
 				"content_html": "<p>Not a good start to the day</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Not a good start to the day\n\n<img src=\"uploads/2022/c241e4edc2.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Not a good start to the day\n\n<img src=\"https://keithpound.com/uploads/2022/c241e4edc2.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-08-28T10:41:52+01:00",
 				"url": "https://keithpound.com/2022/08/28/not-a-good.html",
 				"tags": ["photography"]
@@ -82,7 +118,7 @@
 				"id": "http://KeithPound.micro.blog/2022/08/22/185005.html",
 				
 				"content_html": "<p>Today, news outlets in the UK are reporting that water companies have failed to monitor the amount of sewage being discharged into the sea in popular resort towns.\n<!-- raw HTML omitted -->\nThis is a disgrace and I’ve supported a petition calling on the Government to renationalise the water supply as the industry, in its current form, is no longer fit for purpose.</p>\n<p><a href=\"https://chng.it/P2gZyKMkjZ\">Sign the petition</a></p>\n",
-				"content_text": "Today, news outlets in the UK are reporting that water companies have failed to monitor the amount of sewage being discharged into the sea in popular resort towns.\n<img src=\"uploads/2022/babd091167.jpg\" width=\"500\" height=\"600\" alt=\"cartoon of a lady being fined for dog mess\" />\nThis is a disgrace and I’ve supported a petition calling on the Government to renationalise the water supply as the industry, in its current form, is no longer fit for purpose.\n\n[Sign the petition](https://chng.it/P2gZyKMkjZ)\n",
+				"content_text": "Today, news outlets in the UK are reporting that water companies have failed to monitor the amount of sewage being discharged into the sea in popular resort towns.\n<img src=\"https://keithpound.com/uploads/2022/babd091167.jpg\" width=\"500\" height=\"600\" alt=\"cartoon of a lady being fined for dog mess\" />\nThis is a disgrace and I’ve supported a petition calling on the Government to renationalise the water supply as the industry, in its current form, is no longer fit for purpose.\n\n[Sign the petition](https://chng.it/P2gZyKMkjZ)\n",
 				"date_published": "2022-08-22T18:50:05+01:00",
 				"url": "https://keithpound.com/2022/08/22/185005.html",
 				"tags": ["politics","environment"]
