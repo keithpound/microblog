@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://KeithPound.micro.blog/2022/09/23/industrial-furnaces-fridayphoto.html",
+				
+				"content_html": "<p>Industrial furnaces #FridayPhoto 📷\n<!-- raw HTML omitted --></p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Industrial furnaces #FridayPhoto 📷\n<img src=\"uploads/2022/e8a2713277.jpg\" width=\"600\" height=\"750\" alt=\"Image of a pair of industrial furnaces\" />\n<p><em>iPhone 11, processed in ON1 Photo RAW 2022</em></p>\n",
+				"date_published": "2022-09-23T08:30:00+01:00",
+				"url": "https://keithpound.com/2022/09/23/industrial-furnaces-fridayphoto.html",
+				"tags": ["photography"]
+			},
+			{
+				"id": "http://KeithPound.micro.blog/2022/09/16/132500.html",
+				
+				"content_html": "<p>You&rsquo;ve got to put fuel in the tank when you&rsquo;re on an 80-mile bike ride #FridayPhoto 📷 🚲</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "You've got to put fuel in the tank when you're on an 80-mile bike ride #FridayPhoto 📷 🚲\n\n<img src=\"uploads/2022/a8f51840ee.jpg\" width=\"600\" height=\"800\" alt=\"Photo of food and drink\" />\n<p><em>iPhone 11, processed in ON1 Photo RAW 2022</em></p>\n",
+				"date_published": "2022-09-16T13:25:00+01:00",
+				"url": "https://keithpound.com/2022/09/16/132500.html",
+				"tags": ["cycling"]
+			},
+			{
 				"id": "http://KeithPound.micro.blog/2022/09/13/i-spent-too.html",
 				
 				"content_html": "<p>I spent too long setting up Personalised Spatial Audio after upgrading to iOS 16 on my iPhone. Apple expects you to scan your ears and follow instructions when you can&rsquo;t see what&rsquo;s on the screen&hellip;. <strong>Tip: use screen mirroring.</strong></p>\n",
@@ -46,7 +64,7 @@
 				"id": "http://KeithPound.micro.blog/2022/09/06/mist-over-the.html",
 				
 				"content_html": "<p>Mist over the fields in the early morning 📷</p>\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
-				"content_text": "Mist over the fields in the early morning 📷\r\n\r\n<img src=\"uploads/2022/9a8f8a725a.jpg\" width=\"600\" height=\"337\" alt=\"Photo of mist over the fields in the early morning\" />\r\n\r\n<p><em>iPhone 11, Halide II app, processed in ON1 Photo RAW 2022</em></p>\n",
+				"content_text": "Mist over the fields in the early morning 📷\r\n\r\n<img src=\"https://keithpound.com/uploads/2022/9a8f8a725a.jpg\" width=\"600\" height=\"337\" alt=\"Photo of mist over the fields in the early morning\" />\r\n\r\n<p><em>iPhone 11, Halide II app, processed in ON1 Photo RAW 2022</em></p>\n",
 				"date_published": "2022-09-06T13:07:47+01:00",
 				"url": "https://keithpound.com/2022/09/06/mist-over-the.html",
 				"tags": ["photography"]
@@ -109,7 +127,7 @@
 				"id": "http://KeithPound.micro.blog/2022/08/25/this-is-the.html",
 				
 				"content_html": "<p>This is the first photo from my new (previously enjoyed) Canon EOS M6 Mark II and the kit EF-M 15-45mm lens.</p>\n<p>I&rsquo;m pleased to be back with Canon after a couple of years of shooting with a Sony a6300 as I much prefer the way the Canon handles. 📷🌱</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "This is the first photo from my new (previously enjoyed) Canon EOS M6 Mark II and the kit EF-M 15-45mm lens. \n\nI'm pleased to be back with Canon after a couple of years of shooting with a Sony a6300 as I much prefer the way the Canon handles. 📷🌱\n\n<img src=\"uploads/2022/9f32e600d8.jpg\" width=\"600\" height=\"600\" alt=\"photo of a sunflower\" />\n<p><em>Canon EOS M6 II, processed in ON1 Photo RAW 2022</em></p>\n",
+				"content_text": "This is the first photo from my new (previously enjoyed) Canon EOS M6 Mark II and the kit EF-M 15-45mm lens. \n\nI'm pleased to be back with Canon after a couple of years of shooting with a Sony a6300 as I much prefer the way the Canon handles. 📷🌱\n\n<img src=\"https://keithpound.com/uploads/2022/9f32e600d8.jpg\" width=\"600\" height=\"600\" alt=\"photo of a sunflower\" />\n<p><em>Canon EOS M6 II, processed in ON1 Photo RAW 2022</em></p>\n",
 				"date_published": "2022-08-25T09:43:17+01:00",
 				"url": "https://keithpound.com/2022/08/25/this-is-the.html",
 				"tags": ["photography"]
