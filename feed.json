@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://KeithPound.micro.blog/2023/03/31/listening-to.html",
+				
+				"content_html": "<p>Listening to &hellip; Dub No Frontiers by Adrian Sherwood</p>\n<p>This was recommended by i newspaper&rsquo;s Ian Dunt, who said:</p>\n<blockquote>\n<p>Really well thought-through collection by British producer Adrian Sherwood, who challenges the male-dominated world of reggae with a female-only album. That&rsquo;s laudable, but this stuff only works where the content is good. What&rsquo;s extraordinary here is the delicate balance of diversity and consistency. It&rsquo;s all elegantly produced, emphasising the vocals, but the vocals veer from Mandarin Chinese to Japanese to Hindi. A really impeccable effort.</p>\n</blockquote>\n<p>I couldn&rsquo;t agree more.</p>\n<!-- raw HTML omitted -->\n<p><a href=\"https://open.spotify.com/album/5PE2mm8iipQQglD8x6QjJq?si=0MZPX8p0RtC3HCO2kWb_5A\">Listen on Spotify</a> 🎶</p>\n",
+				"content_text": "Listening to ... Dub No Frontiers by Adrian Sherwood\n\nThis was recommended by i newspaper's Ian Dunt, who said:\n\n> Really well thought-through collection by British producer Adrian Sherwood, who challenges the male-dominated world of reggae with a female-only album. That's laudable, but this stuff only works where the content is good. What's extraordinary here is the delicate balance of diversity and consistency. It's all elegantly produced, emphasising the vocals, but the vocals veer from Mandarin Chinese to Japanese to Hindi. A really impeccable effort.\n\nI couldn't agree more.\n\n<img src=\"uploads/2023/8c56fef8a8.png\" width=\"512\" height=\"305\" alt=\"image from roon\" />\n\n[Listen on Spotify](https://open.spotify.com/album/5PE2mm8iipQQglD8x6QjJq?si=0MZPX8p0RtC3HCO2kWb_5A) 🎶\n",
+				"date_published": "2023-03-31T16:36:34+01:00",
+				"url": "https://keithpound.com/2023/03/31/listening-to.html",
+				"tags": ["music"]
+			},
+			{
 				"id": "http://KeithPound.micro.blog/2023/03/24/one-of-the.html",
 				
 				"content_html": "<p>One of the things I really appreciate about roon is the discovery tab that surfaces music in your library that you haven’t listened to for a while. This is today&rsquo;s:</p>\n<!-- raw HTML omitted -->\n<p>🎶</p>\n",
@@ -37,7 +46,7 @@
 				"id": "http://KeithPound.micro.blog/2023/03/19/good-days-work.html",
 				
 				"content_html": "<p>Good days work at the allotment. We have the asparagus bed and two rows of broad beans planted. Ten bags of rubbish were taken to the tip. Loads more to do. 🌱</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Good days work at the allotment. We have the asparagus bed and two rows of broad beans planted. Ten bags of rubbish were taken to the tip. Loads more to do. 🌱\n\n<img src=\"uploads/2023/902aef851b.jpg\" width=\"600\" height=\"600\" alt=\"photo of raised beds\">\n",
+				"content_text": "Good days work at the allotment. We have the asparagus bed and two rows of broad beans planted. Ten bags of rubbish were taken to the tip. Loads more to do. 🌱\n\n<img src=\"https://cdn.uploads.micro.blog/38545/2023/902aef851b.jpg\" width=\"600\" height=\"600\" alt=\"photo of raised beds\">\n",
 				"date_published": "2023-03-19T20:32:30+01:00",
 				"url": "https://keithpound.com/2023/03/19/good-days-work.html",
 				"tags": ["allotment"]
@@ -70,15 +79,6 @@
 				"tags": ["environment"]
 			},
 			{
-				"id": "http://KeithPound.micro.blog/2023/03/17/listening-to-v.html",
-				
-				"content_html": "<p>Listening to &hellip; V, the new double album by Unknown Mortal Orchestra that was released today.</p>\n<!-- raw HTML omitted -->\n<p><a href=\"https://open.spotify.com/album/1epwNzmWdqkBQQZpTa8KJD?si=QQpZb5jWTfyhg3HsGJnMwA\">Listen on Spotify</a>\n🎶</p>\n",
-				"content_text": "Listening to ... V, the new double album by Unknown Mortal Orchestra that was released today.\n\n<img src=\"https://cdn.uploads.micro.blog/38545/2023/7bb333574e.png\" width=\"512\" height=\"305\" alt=\"Album cover V by Unknown Mortal Orchestra\" />\n\n[Listen on Spotify](https://open.spotify.com/album/1epwNzmWdqkBQQZpTa8KJD?si=QQpZb5jWTfyhg3HsGJnMwA)\n🎶\n",
-				"date_published": "2023-03-17T10:48:04+01:00",
-				"url": "https://keithpound.com/2023/03/17/listening-to-v.html",
-				"tags": ["music"]
-			},
-			{
 				"id": "http://KeithPound.micro.blog/2023/03/16/after-a-gap.html",
 				
 				"content_html": "<p>After a gap of six months, I’m back on micro.blog. Anything interesting happened while I’ve been away?</p>\n",
@@ -107,8 +107,8 @@
 			{
 				"id": "http://KeithPound.micro.blog/2022/11/21/my-album-of.html",
 				
-				"content_html": "<p>My Album of the Week is <!-- raw HTML omitted -->And In The Darkness, Hearts Aglow<!-- raw HTML omitted --> from Weyes Blood.<!-- raw HTML omitted --></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "My Album of the Week is <strong>And In The Darkness, Hearts Aglow</strong> from Weyes Blood.</p>\r\n<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/album/1hngVRZt95TrqPqXoJzQ4A?utm_source=generator\" width=\"100%\" height=\"380\" frameBorder=\"0\" allowfullscreen=\"\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>\r\n<p>Read more on [inews.co.uk](https://inews.co.uk/culture/music/weyes-blood-if-theres-no-more-human-race-thats-totally-fine-1975514).</p>\r\n<p>🎶</p>\n",
+				"content_html": "<p>My Album of the Week is <!-- raw HTML omitted -->And In The Darkness, Hearts Aglow<!-- raw HTML omitted --> from Weyes Blood.</p>\n<!-- raw HTML omitted -->\n<p>Read more on <a href=\"https://inews.co.uk/culture/music/weyes-blood-if-theres-no-more-human-race-thats-totally-fine-1975514\">inews.co.uk</a>. 🎶</p>\n",
+				"content_text": "My Album of the Week is <strong>And In The Darkness, Hearts Aglow</strong> from Weyes Blood.\n\n<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/album/1hngVRZt95TrqPqXoJzQ4A?utm_source=generator\" width=\"100%\" height=\"380\" frameBorder=\"0\" allowfullscreen=\"\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>\n\nRead more on [inews.co.uk](https://inews.co.uk/culture/music/weyes-blood-if-theres-no-more-human-race-thats-totally-fine-1975514). 🎶\n",
 				"date_published": "2022-11-21T11:32:48+01:00",
 				"url": "https://keithpound.com/2022/11/21/my-album-of.html",
 				"tags": ["music"]
