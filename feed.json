@@ -7,6 +7,33 @@
 	"items": [
 		
 			{
+				"id": "http://KeithPound.micro.blog/2023/04/17/we-need-to.html",
+				
+				"content_html": "<p>We need to check the tide times when walking the dog as it’s easy to get caught on the wrong side of the causeway if we get it wrong.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "We need to check the tide times when walking the dog as it’s easy to get caught on the wrong side of the causeway if we get it wrong.\n\n<img src=\"uploads/2023/623346b064.jpg\" alt=\"photo of a flooded estuary\" border=\"1\" width=\"500\" height=\"\" />\n<p><em>iPhone 11, Lightroom app, processed in Lightroom Classic</em> 📷<p>\n",
+				"date_published": "2023-04-17T22:15:04+01:00",
+				"url": "https://keithpound.com/2023/04/17/we-need-to.html",
+				"tags": ["photography"]
+			},
+			{
+				"id": "http://KeithPound.micro.blog/2023/04/17/currently-listening-to.html",
+				
+				"content_html": "<p>Currently listening to &hellip; <em>Multitudes</em> from <em>Feist</em>.</p>\n<!-- raw HTML omitted -->\n<p><a href=\"https://open.spotify.com/album/1p4Q0pUvvURdCwC842Abjn?si=m3NONbSVRmW5XyVz9fnXRw\">Listen on Spotify</a> 🎶</p>\n",
+				"content_text": "Currently listening to ... *Multitudes* from *Feist*.\n\n<img src=\"uploads/2023/7353745c78.png\" alt=“Feist-Multitudes border=\"1\" width=\"500\" height=\"\" />\n\n[Listen on Spotify](https://open.spotify.com/album/1p4Q0pUvvURdCwC842Abjn?si=m3NONbSVRmW5XyVz9fnXRw) 🎶\n\n",
+				"date_published": "2023-04-17T10:45:42+01:00",
+				"url": "https://keithpound.com/2023/04/17/currently-listening-to.html",
+				"tags": ["music","photography"]
+			},
+			{
+				"id": "http://KeithPound.micro.blog/2023/04/12/roonnot-only-for.html",
+				"title": "Roon—Not Only For Audiophiles  Part 1",
+				"content_html": "<p><em>Why invest in Roon when Apple’s Music (the app, not the service) and Spotify are “free?”</em></p>\n<p>I wanted to use Apple Music to bring all my music into one place, consisting of over 2,000 albums I&rsquo;ve ripped or purchased that sat on a Synology NAS and music from Apple’s streaming service. Unfortunately, this approach didn&rsquo;t work because Apple struggled to match my albums with the versions on its servers.</p>\n<p>After days spent watching Apple Music processing &amp; uploading, I gave up. The workaround was to have two Apple Music libraries, one for digital files and another for streaming music, which wasn&rsquo;t an elegant or practical solution.</p>\n<p>I own a Naim Uniti Atom, which supports Apple’s service via AirPlay, but Spotify, Tidal and Qobuz are better integrated. I’ve used Spotify for many years and still have a free account, but the continued lack of high-res content left me looking for another provider. I tried Tidal but grew tired of the way they push music I don’t like at me. Ultimately, I settled on Qobuz, and bought a 12-month subscription.</p>\n<p>I still didn’t have all of my music in one place. After some research during the Christmas break, I signed up for a 14-day trial of <a href=\"https://roonlabs.com/r/czdqgYpSAUmSVciCHmxNpA\">Roon</a>.</p>\n<!-- raw HTML omitted -->\n<p>As a test, I installed Roon on my MacBook Air, pointed it at a subset of my music collection, added my Qobuz subscription, sat back whilst Roon scanned my music and installed the mobile app on my iPhone and iPad.</p>\n<p>Roon must always be on and connected to the Internet to work correctly, so using my MacBook as the Roon server wasn’t a long-term solution. I couldn’t use my Synology NAS as it was in storage between houses, and the spec was too low to support Roon.</p>\n<p>As an interim solution, I bought a &ldquo;previously enjoyed&rdquo; NUC from eBay and installed Roon ROCK, which is a dedicated operating system and Roon core with the music files located on an external SSD drive. It&rsquo;s a relatively old i5 model, but came with 16Gb RAM. It sits in the kitchen, next to the router and has never missed a beat.</p>\n<p>It manages almost 30,000 tracks across my music and still I&rsquo;ve saved as favourites in Qobuz.</p>\n<!-- raw HTML omitted -->\n<p><em>Screenshot of my Roon home page, showing the zones where I have Roon-capable devices.</em></p>\n<p><a href=\"https://roonlabs.com/r/czdqgYpSAUmSVciCHmxNpA\">Use this link for a free 30-day trial</a>, <em>but be warned—it’s addictive.</em></p>\n<p>In Part 2 I&rsquo;ll talk about some of the benefits of using Roon.</p>\n",
+				"content_text": "*Why invest in Roon when Apple’s Music (the app, not the service) and Spotify are “free?”*\n\nI wanted to use Apple Music to bring all my music into one place, consisting of over 2,000 albums I've ripped or purchased that sat on a Synology NAS and music from Apple’s streaming service. Unfortunately, this approach didn't work because Apple struggled to match my albums with the versions on its servers.\n\nAfter days spent watching Apple Music processing & uploading, I gave up. The workaround was to have two Apple Music libraries, one for digital files and another for streaming music, which wasn't an elegant or practical solution.\n\nI own a Naim Uniti Atom, which supports Apple’s service via AirPlay, but Spotify, Tidal and Qobuz are better integrated. I’ve used Spotify for many years and still have a free account, but the continued lack of high-res content left me looking for another provider. I tried Tidal but grew tired of the way they push music I don’t like at me. Ultimately, I settled on Qobuz, and bought a 12-month subscription.\n\nI still didn’t have all of my music in one place. After some research during the Christmas break, I signed up for a 14-day trial of [Roon](https://roonlabs.com/r/czdqgYpSAUmSVciCHmxNpA).\n\n<img src=\"uploads/2023/bafd997964.png\" alt=\"Roon advert\" title=\"roon.png\" border=\"1\" width=\"599\" height=\"442\" />\n\nAs a test, I installed Roon on my MacBook Air, pointed it at a subset of my music collection, added my Qobuz subscription, sat back whilst Roon scanned my music and installed the mobile app on my iPhone and iPad.\n\nRoon must always be on and connected to the Internet to work correctly, so using my MacBook as the Roon server wasn’t a long-term solution. I couldn’t use my Synology NAS as it was in storage between houses, and the spec was too low to support Roon.\n\nAs an interim solution, I bought a \"previously enjoyed\" NUC from eBay and installed Roon ROCK, which is a dedicated operating system and Roon core with the music files located on an external SSD drive. It's a relatively old i5 model, but came with 16Gb RAM. It sits in the kitchen, next to the router and has never missed a beat.\n\nIt manages almost 30,000 tracks across my music and still I've saved as favourites in Qobuz.\n\n<img src=\"uploads/2023/99c3b30bfc.jpg\" alt=\"screenshot of my Roon homepage\" border=\"1\" width=\"500\" height=\"\" />\n\n*Screenshot of my Roon home page, showing the zones where I have Roon-capable devices.*\n\n[Use this link for a free 30-day trial](https://roonlabs.com/r/czdqgYpSAUmSVciCHmxNpA), _but be warned—it’s addictive._\n\nIn Part 2 I'll talk about some of the benefits of using Roon.\n",
+				"date_published": "2023-04-12T18:04:02+01:00",
+				"url": "https://keithpound.com/2023/04/12/roonnot-only-for.html",
+				"tags": ["technology","music","photography"]
+			},
+			{
 				"id": "http://KeithPound.micro.blog/2023/04/06/the-walk-down.html",
 				
 				"content_html": "<p>The walk down into Hope Cove, Devon.</p>\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
@@ -19,7 +46,7 @@
 				"id": "http://KeithPound.micro.blog/2023/03/31/listening-to.html",
 				
 				"content_html": "<p>Listening to &hellip; <!-- raw HTML omitted -->Dub No Frontiers<!-- raw HTML omitted --> by Adrian Sherwood</p>\n<p>This was recommended by i newspaper&rsquo;s Ian Dunt, who said:</p>\n<blockquote>\n<p>Really well thought-through collection by British producer Adrian Sherwood, who challenges the male-dominated world of reggae with a female-only album. That&rsquo;s laudable, but this stuff only works where the content is good. What&rsquo;s extraordinary here is the delicate balance of diversity and consistency. It&rsquo;s all elegantly produced, emphasising the vocals, but the vocals veer from Mandarin Chinese to Japanese to Hindi. A really impeccable effort.</p>\n</blockquote>\n<p>I couldn&rsquo;t agree more.</p>\n<!-- raw HTML omitted -->\n<p><a href=\"https://open.spotify.com/album/5PE2mm8iipQQglD8x6QjJq?si=0MZPX8p0RtC3HCO2kWb_5A\">Listen on Spotify</a> 🎶</p>\n",
-				"content_text": "Listening to ... <em>Dub No Frontiers</em> by Adrian Sherwood\n\nThis was recommended by i newspaper's Ian Dunt, who said:\n\n> Really well thought-through collection by British producer Adrian Sherwood, who challenges the male-dominated world of reggae with a female-only album. That's laudable, but this stuff only works where the content is good. What's extraordinary here is the delicate balance of diversity and consistency. It's all elegantly produced, emphasising the vocals, but the vocals veer from Mandarin Chinese to Japanese to Hindi. A really impeccable effort.\n\nI couldn't agree more.\n\n<img src=\"uploads/2023/8c56fef8a8.png\" width=\"512\" height=\"305\" alt=\"image from roon\" />\n\n[Listen on Spotify](https://open.spotify.com/album/5PE2mm8iipQQglD8x6QjJq?si=0MZPX8p0RtC3HCO2kWb_5A) 🎶\n",
+				"content_text": "Listening to ... <em>Dub No Frontiers</em> by Adrian Sherwood\n\nThis was recommended by i newspaper's Ian Dunt, who said:\n\n> Really well thought-through collection by British producer Adrian Sherwood, who challenges the male-dominated world of reggae with a female-only album. That's laudable, but this stuff only works where the content is good. What's extraordinary here is the delicate balance of diversity and consistency. It's all elegantly produced, emphasising the vocals, but the vocals veer from Mandarin Chinese to Japanese to Hindi. A really impeccable effort.\n\nI couldn't agree more.\n\n<img src=\"https://cdn.uploads.micro.blog/38545/2023/8c56fef8a8.png\" width=\"512\" height=\"305\" alt=\"image from roon\" />\n\n[Listen on Spotify](https://open.spotify.com/album/5PE2mm8iipQQglD8x6QjJq?si=0MZPX8p0RtC3HCO2kWb_5A) 🎶\n",
 				"date_published": "2023-03-31T16:36:34+01:00",
 				"url": "https://keithpound.com/2023/03/31/listening-to.html",
 				"tags": ["music"]
@@ -28,7 +55,7 @@
 				"id": "http://KeithPound.micro.blog/2023/03/24/one-of-the.html",
 				
 				"content_html": "<p>One of the things I really appreciate about roon is the discovery tab that surfaces music in your library that you haven’t listened to for a while. This is today&rsquo;s:</p>\n<!-- raw HTML omitted -->\n<p>🎶</p>\n",
-				"content_text": "One of the things I really appreciate about roon is the discovery tab that surfaces music in your library that you haven’t listened to for a while. This is today's:\n\n<img src=\"uploads/2023/fbe09273e1.png\" width=\"512\" height=\"335\" alt=\"image of the rise and fall of ziggy stardust from roon\" />\n\n🎶\n\n",
+				"content_text": "One of the things I really appreciate about roon is the discovery tab that surfaces music in your library that you haven’t listened to for a while. This is today's:\n\n<img src=\"https://cdn.uploads.micro.blog/38545/2023/fbe09273e1.png\" width=\"512\" height=\"335\" alt=\"image of the rise and fall of ziggy stardust from roon\" />\n\n🎶\n\n",
 				"date_published": "2023-03-24T16:01:37+01:00",
 				"url": "https://keithpound.com/2023/03/24/one-of-the.html",
 				"tags": ["music"]
@@ -832,7 +859,7 @@
 				"id": "http://KeithPound.micro.blog/2021/10/17/only-in-glastonbury.html",
 				
 				"content_html": "<p>Only in Glastonbury&hellip;</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Only in Glastonbury... \n\n<img src=\"uploads/2021/8b4ab9593e.jpg\" width=\"600\" height=\"399\" alt=\"glasto wizard\" />\n<p><em>Sony a6300, Sony E 16-70 F4 ZA OSS, processed in On1 Photo Raw</em> 📷</p>\n",
+				"content_text": "Only in Glastonbury... \n\n<img src=\"https://KeithPound.micro.blog/uploads/2021/8b4ab9593e.jpg\" width=\"600\" height=\"399\" alt=\"glasto wizard\" />\n<p><em>Sony a6300, Sony E 16-70 F4 ZA OSS, processed in On1 Photo Raw</em> 📷</p>\n",
 				"date_published": "2021-10-17T19:57:20+01:00",
 				"url": "https://keithpound.com/2021/10/17/only-in-glastonbury.html",
 				"tags": ["photography"]
@@ -1182,7 +1209,7 @@
 				"id": "http://KeithPound.micro.blog/2021/09/11/lest-we-forget.html",
 				"title": "Lest We Forget",
 				"content_html": "<!-- raw HTML omitted -->\n<p>Source: A Choice of Kipling&rsquo;s Verse (1943)</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "<p>For heathen heart that puts her trust<br>\nIn reeking tube and iron shard,<br>\nAll valiant dust that builds on dust,<br>\nAnd guarding, calls not Thee to guard,<br>\nFor frantic boast and foolish word—<br>\nThy mercy on Thy People, Lord!</p>\n\nSource: A Choice of Kipling's Verse (1943)\n\n<img src=\"uploads/2021/7c29f4d9fc.jpg\" width=\"600\" height=\"599\" alt=\"twin towers memorial, new york\" />\n<p><em>Sony a6300, Sony E 16-70 F4 ZA OSS, processed in Luminar AI</em> 📷</p>\n",
+				"content_text": "<p>For heathen heart that puts her trust<br>\nIn reeking tube and iron shard,<br>\nAll valiant dust that builds on dust,<br>\nAnd guarding, calls not Thee to guard,<br>\nFor frantic boast and foolish word—<br>\nThy mercy on Thy People, Lord!</p>\n\nSource: A Choice of Kipling's Verse (1943)\n\n<img src=\"https://KeithPound.micro.blog/uploads/2021/7c29f4d9fc.jpg\" width=\"600\" height=\"599\" alt=\"twin towers memorial, new york\" />\n<p><em>Sony a6300, Sony E 16-70 F4 ZA OSS, processed in Luminar AI</em> 📷</p>\n",
 				"date_published": "2021-09-11T07:39:50+01:00",
 				"url": "https://keithpound.com/2021/09/11/lest-we-forget.html",
 				"tags": ["travel","photography"]
@@ -1245,7 +1272,7 @@
 				"id": "http://KeithPound.micro.blog/2021/08/22/twincylinder-morgan.html",
 				"title": "Pictures from the car show",
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p>Twin-cylinder Morgan</p>\n<img src=\"uploads/2021/2ea15dbd7b.jpg\" width=\"600\" height=\"400\" alt=\"close up photo of a Morgan engine\" />\n<p><em>Sony a6300, Sony E 16-70 F4 ZA OSS, processed in Lightroom Classic</em></p>\n<p>Car bonnet (hood) mascot</p>\n<img src=\"uploads/2021/8e3b7ec622.jpg\" width=\"453\" height=\"600\" alt=\"close up photo of a car bottem mascot from 1935\" />\n<p><em>Sony a6300, Sony E 16-70 F4 ZA OSS, processed in Lightroom Classic</em> 📷🚙</p>\n",
+				"content_text": "<p>Twin-cylinder Morgan</p>\n<img src=\"https://KeithPound.micro.blog/uploads/2021/2ea15dbd7b.jpg\" width=\"600\" height=\"400\" alt=\"close up photo of a Morgan engine\" />\n<p><em>Sony a6300, Sony E 16-70 F4 ZA OSS, processed in Lightroom Classic</em></p>\n<p>Car bonnet (hood) mascot</p>\n<img src=\"https://KeithPound.micro.blog/uploads/2021/8e3b7ec622.jpg\" width=\"453\" height=\"600\" alt=\"close up photo of a car bottem mascot from 1935\" />\n<p><em>Sony a6300, Sony E 16-70 F4 ZA OSS, processed in Lightroom Classic</em> 📷🚙</p>\n",
 				"date_published": "2021-08-22T22:19:00+01:00",
 				"url": "https://keithpound.com/2021/08/22/twincylinder-morgan.html",
 				"tags": ["photography"]
