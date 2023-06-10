@@ -7,6 +7,42 @@
 	"items": [
 		
 			{
+				"id": "http://KeithPound.micro.blog/2023/06/10/apparently-its-national.html",
+				
+				"content_html": "<p>Apparently, it’s National Gin Day, so I’d be rude not to join in</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Apparently, it’s National Gin Day, so I’d be rude not to join in\n\n<img src=\"uploads/2023/c92bb4d027.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-06-10T19:16:14+01:00",
+				"url": "https://keithpound.com/2023/06/10/apparently-its-national.html",
+				"tags": ["photography"]
+			},
+			{
+				"id": "http://KeithPound.micro.blog/2023/06/09/yes-boris-johnson.html",
+				
+				"content_html": "<p>YES! Boris Johnson resigns as an MP with immediate effect. Open a bottle of the good stuff. <a href=\"https://www.bbc.co.uk/news/live/uk-politics-65860705\">www.bbc.co.uk/news/live&hellip;</a></p>\n",
+				"content_text": "YES! Boris Johnson resigns as an MP with immediate effect. Open a bottle of the good stuff. [www.bbc.co.uk/news/live...](https://www.bbc.co.uk/news/live/uk-politics-65860705)\n",
+				"date_published": "2023-06-09T20:41:18+01:00",
+				"url": "https://keithpound.com/2023/06/09/yes-boris-johnson.html",
+				"tags": ["politics"]
+			},
+			{
+				"id": "http://KeithPound.micro.blog/2023/06/09/currently-listening-to.html",
+				
+				"content_html": "<p>Currently listening to &hellip; <em>Threnody For A Dead Queen</em> from <em>Comedy of Errors.</em></p>\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<p>🎶</p>\n",
+				"content_text": "Currently listening to ... _Threnody For A Dead Queen_ from _Comedy of Errors._\n\n<img src=\"uploads/2023/9eee2cd23e.png\" alt=\"Roon threnodyforadeadqueen comedyoferrors\" title=\"roon-threnodyforadeadqueen-comedyoferrors.png\" border=\"1\" width=\"512\" height=\"265\" />\n\n<iframe style=\"border: 0; width: 100%; height: 120px;\" src=\"https://bandcamp.com/EmbeddedPlayer/album=3569568636/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/\" seamless><a href=\"https://comedyoferrors.bandcamp.com/album/threnody-for-a-dead-queen\">Threnody For A Dead Queen by Comedy Of Errors</a></iframe>\n\n🎶\n",
+				"date_published": "2023-06-09T10:07:42+01:00",
+				"url": "https://keithpound.com/2023/06/09/currently-listening-to.html",
+				"tags": ["music"]
+			},
+			{
+				"id": "http://KeithPound.micro.blog/2023/06/07/not-a-bad.html",
+				
+				"content_html": "<p>Not a bad place to walk the dog after work 📷</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Not a bad place to walk the dog after work 📷\n\n<img src=\"uploads/2023/c88f422d06.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"date_published": "2023-06-07T21:05:31+01:00",
+				"url": "https://keithpound.com/2023/06/07/not-a-bad.html",
+				"tags": ["photography"]
+			},
+			{
 				"id": "http://KeithPound.micro.blog/2023/06/05/currently-listening-to.html",
 				
 				"content_html": "<p>Currently listening to &hellip; <em>But Here We Are</em> from <em>Foo Fighters.</em></p>\n<!-- raw HTML omitted -->\n<p>I think it&rsquo;ll need a couple of listens before I make my mind up. <!-- raw HTML omitted -->Listen on Spotify<!-- raw HTML omitted -->. 🎶</p>\n<!-- raw HTML omitted -->\n",
@@ -72,7 +108,7 @@
 				"id": "http://KeithPound.micro.blog/2023/05/19/theyre-sorry-while.html",
 				
 				"content_html": "<p>They&rsquo;re sorry  &hellip; while we swim in polluted water.</p>\n<blockquote>\n<p>Water companies apologise for sewage spills and pledge £10bn of investment, but critics say it&rsquo;s too little\nEngland’s water and sewage companies have apologised for polluting rivers and beaches and pledged that more will be done to end it.</p>\n</blockquote>\n<blockquote>\n<p>Ruth Kelly, chair of Water UK, the industry body, said that the public was “right to be upset” and that “more should have been done” to limit sewage spills.</p>\n</blockquote>\n<!-- raw HTML omitted -->\n<p><em>Image source inews/Robert Brook/Getty</em></p>\n<p>Since privatisation, the water companies have taken billions of pounds in dividends while delivering polluted rivers and beaches. They must pay to clean this up and not pass the costs on to their hard-pressed customers. Unfortunately, the regulator and government don&rsquo;t seem to be on the side of the public.</p>\n<p><!-- raw HTML omitted -->Read the full article on the <!-- raw HTML omitted -->i<!-- raw HTML omitted --> news website<!-- raw HTML omitted --></p>\n",
-				"content_text": "They're sorry  ... while we swim in polluted water.\n\n> Water companies apologise for sewage spills and pledge £10bn of investment, but critics say it's too little\n> England’s water and sewage companies have apologised for polluting rivers and beaches and pledged that more will be done to end it.\n\n> Ruth Kelly, chair of Water UK, the industry body, said that the public was “right to be upset” and that “more should have been done” to limit sewage spills.\n\n<img src=\"uploads/2023/53e93ad869.png\" alt=\"photp showing polluted water entering a river\" title=\"polluted_water.png\" border=\"0\" width=\"599\" height=\"337\" />\n\n_Image source inews/Robert Brook/Getty_\n\nSince privatisation, the water companies have taken billions of pounds in dividends while delivering polluted rivers and beaches. They must pay to clean this up and not pass the costs on to their hard-pressed customers. Unfortunately, the regulator and government don't seem to be on the side of the public.\n\n<a href=\"https://inews.co.uk/news/environment/water-companies-sorry-sewage-spills-10bn-investment-critics-2347713\">Read the full article on the <strong>i</strong> news website</a>\n",
+				"content_text": "They're sorry  ... while we swim in polluted water.\n\n> Water companies apologise for sewage spills and pledge £10bn of investment, but critics say it's too little\n> England’s water and sewage companies have apologised for polluting rivers and beaches and pledged that more will be done to end it.\n\n> Ruth Kelly, chair of Water UK, the industry body, said that the public was “right to be upset” and that “more should have been done” to limit sewage spills.\n\n<img src=\"https://cdn.uploads.micro.blog/38545/2023/53e93ad869.png\" alt=\"photp showing polluted water entering a river\" title=\"polluted_water.png\" border=\"0\" width=\"599\" height=\"337\" />\n\n_Image source inews/Robert Brook/Getty_\n\nSince privatisation, the water companies have taken billions of pounds in dividends while delivering polluted rivers and beaches. They must pay to clean this up and not pass the costs on to their hard-pressed customers. Unfortunately, the regulator and government don't seem to be on the side of the public.\n\n<a href=\"https://inews.co.uk/news/environment/water-companies-sorry-sewage-spills-10bn-investment-critics-2347713\">Read the full article on the <strong>i</strong> news website</a>\n",
 				"date_published": "2023-05-19T08:40:36+01:00",
 				"url": "https://keithpound.com/2023/05/19/theyre-sorry-while.html",
 				"tags": ["environment"]
