@@ -7,6 +7,50 @@
 	"items": [
 		
 			{
+				"id": "http://KeithPound.micro.blog/2023/06/21/evening-walk-to.html",
+				
+				"content_html": "<p>Evening walk to Hope Cove 📷</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Evening walk to Hope Cove 📷\n\n<img src=\"uploads/2023/252d1d0da1.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"date_published": "2023-06-21T21:26:09+01:00",
+				"url": "https://keithpound.com/2023/06/21/evening-walk-to.html",
+				"tags": ["photography"]
+			},
+			{
+				"id": "http://KeithPound.micro.blog/2023/06/18/first-time-on.html",
+				
+				"content_html": "<p>First time on the estuary in our new (to us) kayak. Almost didn’t get back because the tide was on its way out. No one wants to do the walk of shame, dragging the boat through the mud!</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "First time on the estuary in our new (to us) kayak. Almost didn’t get back because the tide was on its way out. No one wants to do the walk of shame, dragging the boat through the mud!\n\n<img src=\"uploads/2023/image.jpg\" width=\"450\" height=\"600\" alt=\"photo of a man in a blue kayak\">\n",
+				"date_published": "2023-06-18T15:47:41+01:00",
+				"url": "https://keithpound.com/2023/06/18/first-time-on.html"
+			},
+			{
+				"id": "http://KeithPound.micro.blog/2023/06/16/finally-this-awful.html",
+				
+				"content_html": "<p>Finally! This awful man has sucked up too much air time and newsprint.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Finally! This awful man has sucked up too much air time and newsprint. \n\n<img src=\"uploads/2023/8e749b7f85.png\" alt=\"Image of the i newspaper front page\" title=\"inews-2023-06-16.png\" border=\"0\" width=\"453\" height=\"600\" />\n",
+				"date_published": "2023-06-16T08:43:59+01:00",
+				"url": "https://keithpound.com/2023/06/16/finally-this-awful.html",
+				"tags": ["politics"]
+			},
+			{
+				"id": "http://KeithPound.micro.blog/2023/06/16/i-took-this.html",
+				
+				"content_html": "<p>I took this photo of St. Andrew&rsquo;s Church in Aveton Gifford, Devon, on this morning&rsquo;s walk with the dog. What a great way to start the day!</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I took this photo of St. Andrew's Church in Aveton Gifford, Devon, on this morning's walk with the dog. What a great way to start the day!\n\n<img src=\"uploads/2023/041d298d2c.jpg\" alt=\"Photo of Aveton Gifford Church\" title=\"APC_0233.jpg\" border=\"0\" width=\"600\" height=\"450\" />\n<p><em>iPhone 11, Lightroom app, processed in Lightroom Classic</em> 📷</p>\n",
+				"date_published": "2023-06-16T08:37:05+01:00",
+				"url": "https://keithpound.com/2023/06/16/i-took-this.html",
+				"tags": ["photography"]
+			},
+			{
+				"id": "http://KeithPound.micro.blog/2023/06/11/view-of-salcombe.html",
+				
+				"content_html": "<p>View of Salcombe from Start Tor 📷</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "View of Salcombe from Start Tor 📷\n\n<img src=\"uploads/2023/5fb3a83e64.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"date_published": "2023-06-11T20:49:26+01:00",
+				"url": "https://keithpound.com/2023/06/11/view-of-salcombe.html",
+				"tags": ["photography"]
+			},
+			{
 				"id": "http://KeithPound.micro.blog/2023/06/10/apparently-its-national.html",
 				
 				"content_html": "<p>Apparently, it’s National Gin Day, so I’d be rude not to join in</p>\n<!-- raw HTML omitted -->\n",
@@ -28,7 +72,7 @@
 				"id": "http://KeithPound.micro.blog/2023/06/09/currently-listening-to.html",
 				
 				"content_html": "<p>Currently listening to &hellip; <em>Threnody For A Dead Queen</em> from <em>Comedy of Errors.</em></p>\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<p>🎶</p>\n",
-				"content_text": "Currently listening to ... _Threnody For A Dead Queen_ from _Comedy of Errors._\n\n<img src=\"uploads/2023/9eee2cd23e.png\" alt=\"Roon threnodyforadeadqueen comedyoferrors\" title=\"roon-threnodyforadeadqueen-comedyoferrors.png\" border=\"1\" width=\"512\" height=\"265\" />\n\n<iframe style=\"border: 0; width: 100%; height: 120px;\" src=\"https://bandcamp.com/EmbeddedPlayer/album=3569568636/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/\" seamless><a href=\"https://comedyoferrors.bandcamp.com/album/threnody-for-a-dead-queen\">Threnody For A Dead Queen by Comedy Of Errors</a></iframe>\n\n🎶\n",
+				"content_text": "Currently listening to ... _Threnody For A Dead Queen_ from _Comedy of Errors._\n\n<img src=\"https://cdn.uploads.micro.blog/38545/2023/9eee2cd23e.png\" alt=\"Roon threnodyforadeadqueen comedyoferrors\" title=\"roon-threnodyforadeadqueen-comedyoferrors.png\" border=\"1\" width=\"512\" height=\"265\" />\n\n<iframe style=\"border: 0; width: 100%; height: 120px;\" src=\"https://bandcamp.com/EmbeddedPlayer/album=3569568636/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/\" seamless><a href=\"https://comedyoferrors.bandcamp.com/album/threnody-for-a-dead-queen\">Threnody For A Dead Queen by Comedy Of Errors</a></iframe>\n\n🎶\n",
 				"date_published": "2023-06-09T10:07:42+01:00",
 				"url": "https://keithpound.com/2023/06/09/currently-listening-to.html",
 				"tags": ["music"]
@@ -37,7 +81,7 @@
 				"id": "http://KeithPound.micro.blog/2023/06/07/not-a-bad.html",
 				
 				"content_html": "<p>Not a bad place to walk the dog after work 📷</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Not a bad place to walk the dog after work 📷\n\n<img src=\"uploads/2023/c88f422d06.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"content_text": "Not a bad place to walk the dog after work 📷\n\n<img src=\"https://cdn.uploads.micro.blog/38545/2023/c88f422d06.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
 				"date_published": "2023-06-07T21:05:31+01:00",
 				"url": "https://keithpound.com/2023/06/07/not-a-bad.html",
 				"tags": ["photography"]
@@ -46,7 +90,7 @@
 				"id": "http://KeithPound.micro.blog/2023/06/05/currently-listening-to.html",
 				
 				"content_html": "<p>Currently listening to &hellip; <em>But Here We Are</em> from <em>Foo Fighters.</em></p>\n<!-- raw HTML omitted -->\n<p>I think it&rsquo;ll need a couple of listens before I make my mind up. <!-- raw HTML omitted -->Listen on Spotify<!-- raw HTML omitted -->. 🎶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Currently listening to ... _But Here We Are_ from _Foo Fighters._\n\n<img src=\"uploads/2023/a4f05dfd66.png\" alt=\"foo fighters but here we are\" title=\"roon-foo-fighters-but-here-we-are.png\" border=\"1\" width=\"512\" height=\"305\" />\n\nI think it'll need a couple of listens before I make my mind up. <a href=\"https://open.spotify.com/album/4wp4aWWpoYfNcspimVAnel?si=NZjiXFGNRU-bmHUz_JsmjA\">Listen on Spotify</a>. 🎶\n\n <iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/album/4wp4aWWpoYfNcspimVAnel?utm_source=generator\" width=\"100%\" height=\"352\" frameBorder=\"0\" allowfullscreen=\"\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>\n",
+				"content_text": "Currently listening to ... _But Here We Are_ from _Foo Fighters._\n\n<img src=\"https://cdn.uploads.micro.blog/38545/2023/a4f05dfd66.png\" alt=\"foo fighters but here we are\" title=\"roon-foo-fighters-but-here-we-are.png\" border=\"1\" width=\"512\" height=\"305\" />\n\nI think it'll need a couple of listens before I make my mind up. <a href=\"https://open.spotify.com/album/4wp4aWWpoYfNcspimVAnel?si=NZjiXFGNRU-bmHUz_JsmjA\">Listen on Spotify</a>. 🎶\n\n <iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/album/4wp4aWWpoYfNcspimVAnel?utm_source=generator\" width=\"100%\" height=\"352\" frameBorder=\"0\" allowfullscreen=\"\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>\n",
 				"date_published": "2023-06-05T09:35:40+01:00",
 				"url": "https://keithpound.com/2023/06/05/currently-listening-to.html",
 				"tags": ["music"]
@@ -64,7 +108,7 @@
 				"id": "http://KeithPound.micro.blog/2023/05/28/had-a-great.html",
 				
 				"content_html": "<p>Had a great morning messing about on the river with friends. We kayaked from Bantham to the weir above Aveton Gifford, where we stopped for lunch. 🛶</p>\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
-				"content_text": "Had a great morning messing about on the river with friends. We kayaked from Bantham to the weir above Aveton Gifford, where we stopped for lunch. 🛶\n\n<img src=\"uploads/2023/ff99d1ade5.jpg\" width=\"600\" height=\"450\" alt=\"photo of some kayaks in front of a weir\" />\n \n\n<img src=\"uploads/2023/8010f709af.jpg\" width=\"600\" height=\"450\" alt=\"lunchtime on the river\" />\n",
+				"content_text": "Had a great morning messing about on the river with friends. We kayaked from Bantham to the weir above Aveton Gifford, where we stopped for lunch. 🛶\n\n<img src=\"https://cdn.uploads.micro.blog/38545/2023/ff99d1ade5.jpg\" width=\"600\" height=\"450\" alt=\"photo of some kayaks in front of a weir\" />\n \n\n<img src=\"https://cdn.uploads.micro.blog/38545/2023/8010f709af.jpg\" width=\"600\" height=\"450\" alt=\"lunchtime on the river\" />\n",
 				"date_published": "2023-05-28T17:07:25+01:00",
 				"url": "https://keithpound.com/2023/05/28/had-a-great.html"
 			},
@@ -72,7 +116,7 @@
 				"id": "http://KeithPound.micro.blog/2023/05/26/view-of-thurlestone.html",
 				
 				"content_html": "<p>View of Thurlestone Rock, taken from South Milton Beach, Devon, yesterday evening whilst walking the dog.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "View of Thurlestone Rock, taken from South Milton Beach, Devon, yesterday evening whilst walking the dog.\n\n<img src=\"uploads/2023/ec040dffe4.jpg\" alt=\"Photo of South Milton Beach, Devon\" title=\"APC_0215.jpg\" border=\"0\" width=\"599\" height=\"337\" />\n<p><em>iPhone 11, Lightroom app, processed in Lightroom Classic</em> 📷</p>\n",
+				"content_text": "View of Thurlestone Rock, taken from South Milton Beach, Devon, yesterday evening whilst walking the dog.\n\n<img src=\"https://cdn.uploads.micro.blog/38545/2023/ec040dffe4.jpg\" alt=\"Photo of South Milton Beach, Devon\" title=\"APC_0215.jpg\" border=\"0\" width=\"599\" height=\"337\" />\n<p><em>iPhone 11, Lightroom app, processed in Lightroom Classic</em> 📷</p>\n",
 				"date_published": "2023-05-26T08:59:14+01:00",
 				"url": "https://keithpound.com/2023/05/26/view-of-thurlestone.html",
 				"tags": ["photography"]
@@ -81,7 +125,7 @@
 				"id": "http://KeithPound.micro.blog/2023/05/26/early-morning-at.html",
 				
 				"content_html": "<p>Early morning at the allotment 🌱</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Early morning at the allotment 🌱\n\n<img src=\"uploads/2023/5ceea3e8b8.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"content_text": "Early morning at the allotment 🌱\n\n<img src=\"https://cdn.uploads.micro.blog/38545/2023/5ceea3e8b8.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
 				"date_published": "2023-05-26T07:28:15+01:00",
 				"url": "https://keithpound.com/2023/05/26/early-morning-at.html",
 				"tags": ["photography","allotment"]
@@ -90,19 +134,10 @@
 				"id": "http://KeithPound.micro.blog/2023/05/25/currently-listening-to.html",
 				
 				"content_html": "<p>Currently listening to &hellip; <em>Mirror to the Sky</em> from <em>Yes.</em></p>\n<!-- raw HTML omitted -->\n<p>Really enjoying this album. <!-- raw HTML omitted -->Listen on Spotify<!-- raw HTML omitted -->. 🎶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Currently listening to ... _Mirror to the Sky_ from _Yes._\n\n<img src=\"uploads/2023/a73d363367.png\" alt=\"Yes - Mirror to the Sky on roon\" title=\"roon-yes-mirror-to-the-sky.png\" border=\"1\" width=\"512\" height=\"335\" />\n\nReally enjoying this album. <a href=\"https://open.spotify.com/album/260tAYjC3uOU9Xdrslckje?si=K9nRSkV-SsOyB0BS4kJofQ\">Listen on Spotify</a>. 🎶\n\n<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/album/260tAYjC3uOU9Xdrslckje?utm_source=generator\" width=\"100%\" height=\"352\" frameBorder=\"0\" allowfullscreen=\"\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>\n",
+				"content_text": "Currently listening to ... _Mirror to the Sky_ from _Yes._\n\n<img src=\"https://cdn.uploads.micro.blog/38545/2023/a73d363367.png\" alt=\"Yes - Mirror to the Sky on roon\" title=\"roon-yes-mirror-to-the-sky.png\" border=\"1\" width=\"512\" height=\"335\" />\n\nReally enjoying this album. <a href=\"https://open.spotify.com/album/260tAYjC3uOU9Xdrslckje?si=K9nRSkV-SsOyB0BS4kJofQ\">Listen on Spotify</a>. 🎶\n\n<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/album/260tAYjC3uOU9Xdrslckje?utm_source=generator\" width=\"100%\" height=\"352\" frameBorder=\"0\" allowfullscreen=\"\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>\n",
 				"date_published": "2023-05-25T14:29:37+01:00",
 				"url": "https://keithpound.com/2023/05/25/currently-listening-to.html",
 				"tags": ["music"]
-			},
-			{
-				"id": "http://KeithPound.micro.blog/2023/05/22/weve-lived-in.html",
-				
-				"content_html": "<p>We&rsquo;ve lived in South Devon for over six months, so we were past due for a trip on the water. We met our friends on the quay in Kingsbridge at 8:30 am, ready to catch the tide. It was a great introduction to kayaking - the weather was fine, and the water conditions in the estuary were calm. We plan to buy our kayaks and return to the water next week.</p>\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
-				"content_text": "We've lived in South Devon for over six months, so we were past due for a trip on the water. We met our friends on the quay in Kingsbridge at 8:30 am, ready to catch the tide. It was a great introduction to kayaking - the weather was fine, and the water conditions in the estuary were calm. We plan to buy our kayaks and return to the water next week.\n\n<img src=\"https://cdn.uploads.micro.blog/38545/2023/bb730620f9.jpg\" alt=\"photo of a green mazda mx-5\" title=\"APC_0203.jpg\" border=\"0\" width=\"600\" height=\"450\" />\n<p><em>First trip out in the MX-5</em></p>\n\n<img src=\"https://cdn.uploads.micro.blog/38545/2023/b732caa9fb.jpg\" alt=\"photo of a kayaking expedition\" title=\"APC_0204.jpg\" border=\"0\" width=\"600\" height=\"450\" />\n<p><em>I was in the back</em></p>\n\n<img src=\"https://cdn.uploads.micro.blog/38545/2023/cc3d23dcb5.jpg\" alt=\"two people in a blue kayak\" title=\"7ab50354-be88-4542-b0f7-6ac5f7b48d68.jpg\" border=\"0\" width=\"600\" height=\"450\" />\n<p><em>iPhone 11, Lightroom app, processed in Lightroom Classic</em> 📷</p>\n",
-				"date_published": "2023-05-22T08:46:33+01:00",
-				"url": "https://keithpound.com/2023/05/22/weve-lived-in.html",
-				"tags": ["travel","cars"]
 			},
 			{
 				"id": "http://KeithPound.micro.blog/2023/05/19/theyre-sorry-while.html",
@@ -126,7 +161,7 @@
 				"id": "http://KeithPound.micro.blog/2023/05/07/aveton-gifford-coronation.html",
 				
 				"content_html": "<p><strong>Aveton Gifford Coronation Street Party</strong></p>\n<p>Like many other communities, we arranged a street party to celebrate the coronation. Whatever your opinions about the monarchy, the event brought people together, and everyone had a good time.</p>\n<p>Here are some photos.</p>\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
-				"content_text": "**Aveton Gifford Coronation Street Party**\n\nLike many other communities, we arranged a street party to celebrate the coronation. Whatever your opinions about the monarchy, the event brought people together, and everyone had a good time.\n\nHere are some photos.\n\n<img src=\"uploads/2023/b54b697017.jpg\" alt=\"a photo of a cottage with union jack flags and bunting\" title=\"APC_0199.jpg\" border=\"1\" width=\"600\" height=\"450\" />\n\n<img src=\"uploads/2023/fce7189473.jpg\" alt=\"the king comes to AG\" title=\"APC_0200.jpg\" border=\"0\" width=\"450\" height=\"600\" />\n\n<img src=\"uploads/2023/5f959f5f3c.jpg\" alt=\"judging the dog show\" title=\"IMG_8334.jpg\" border=\"0\" width=\"599\" height=\"399\" />\n\n<img src=\"uploads/2023/c16600dde1.jpg\" alt=\"lunchtime\" title=\"IMG_8338.jpg\" border=\"0\" width=\"599\" height=\"399\" />\n\n<img src=\"uploads/2023/887825d007.jpg\" alt=\"lunchtime\" title=\"IMG_8339.jpg\" border=\"0\" width=\"599\" height=\"399\" />\n\n<img src=\"uploads/2023/fc7275e878.jpg\" alt=\"tug of war\" title=\"APC_0201.jpg\" border=\"0\" width=\"599\" height=\"337\" />\n",
+				"content_text": "**Aveton Gifford Coronation Street Party**\n\nLike many other communities, we arranged a street party to celebrate the coronation. Whatever your opinions about the monarchy, the event brought people together, and everyone had a good time.\n\nHere are some photos.\n\n<img src=\"https://cdn.uploads.micro.blog/38545/2023/b54b697017.jpg\" alt=\"a photo of a cottage with union jack flags and bunting\" title=\"APC_0199.jpg\" border=\"1\" width=\"600\" height=\"450\" />\n\n<img src=\"https://cdn.uploads.micro.blog/38545/2023/fce7189473.jpg\" alt=\"the king comes to AG\" title=\"APC_0200.jpg\" border=\"0\" width=\"450\" height=\"600\" />\n\n<img src=\"https://cdn.uploads.micro.blog/38545/2023/5f959f5f3c.jpg\" alt=\"judging the dog show\" title=\"IMG_8334.jpg\" border=\"0\" width=\"599\" height=\"399\" />\n\n<img src=\"https://cdn.uploads.micro.blog/38545/2023/c16600dde1.jpg\" alt=\"lunchtime\" title=\"IMG_8338.jpg\" border=\"0\" width=\"599\" height=\"399\" />\n\n<img src=\"https://cdn.uploads.micro.blog/38545/2023/887825d007.jpg\" alt=\"lunchtime\" title=\"IMG_8339.jpg\" border=\"0\" width=\"599\" height=\"399\" />\n\n<img src=\"https://cdn.uploads.micro.blog/38545/2023/fc7275e878.jpg\" alt=\"tug of war\" title=\"APC_0201.jpg\" border=\"0\" width=\"599\" height=\"337\" />\n",
 				"date_published": "2023-05-07T18:26:00+01:00",
 				"url": "https://keithpound.com/2023/05/07/aveton-gifford-coronation.html",
 				"tags": ["photography"]
@@ -153,7 +188,7 @@
 				"id": "http://KeithPound.micro.blog/2023/05/03/summer-fun.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n<p>My friend that lives in Spain has gifted me his “Green Goddess,” a 1995 MX-5 (Miata) Mk1 in British Racing Green. If all goes well with the MoT test, she’ll be with us in a couple of weeks, ready for some top-down motoring this summer. I&rsquo;m already thinking about upgrades&hellip; 🚗</p>\n",
-				"content_text": "<img src=\"uploads/2023/c4a0d2e466.jpg\" width=\"600\" height=\"338\" alt=\"photo of a green mazda mx-5\" />\n\nMy friend that lives in Spain has gifted me his “Green Goddess,” a 1995 MX-5 (Miata) Mk1 in British Racing Green. If all goes well with the MoT test, she’ll be with us in a couple of weeks, ready for some top-down motoring this summer. I'm already thinking about upgrades... 🚗\n",
+				"content_text": "<img src=\"https://cdn.uploads.micro.blog/38545/2023/c4a0d2e466.jpg\" width=\"600\" height=\"338\" alt=\"photo of a green mazda mx-5\" />\n\nMy friend that lives in Spain has gifted me his “Green Goddess,” a 1995 MX-5 (Miata) Mk1 in British Racing Green. If all goes well with the MoT test, she’ll be with us in a couple of weeks, ready for some top-down motoring this summer. I'm already thinking about upgrades... 🚗\n",
 				"date_published": "2023-05-03T07:01:36+01:00",
 				"url": "https://keithpound.com/2023/05/03/summer-fun.html",
 				"tags": ["cars"]
