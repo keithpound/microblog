@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://KeithPound.micro.blog/2023/07/03/view-of-ayrmer.html",
+				
+				"content_html": "<p>View of Ayrmer Cove, South Devon, taken from the South West Coast Path.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "View of Ayrmer Cove, South Devon, taken from the South West Coast Path.\n\n<img src=\"uploads/2023/ayrmer-cove.jpg\" alt=\"view of Ayrmer Cove taken from the South West Coast Path\" title=\"ayrmer-cove.jpg\" border=\"0\" width=\"600\" height=\"450\" />\n<p><em>iPhone 14 Pro, Lightroom app, processed in Lightroom Classic</em> 📷</p>\n",
+				"date_published": "2023-07-03T08:06:28+01:00",
+				"url": "https://keithpound.com/2023/07/03/view-of-ayrmer.html",
+				"tags": ["photography"]
+			},
+			{
+				"id": "http://KeithPound.micro.blog/2023/06/22/i-was-out.html",
+				
+				"content_html": "<p>I was out with the dog before 6 AM today and was rewarded with lovely early-morning views over the Devon countryside. These are the first photos taken with my new iPhone 14 Pro.</p>\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
+				"content_text": "I was out with the dog before 6 AM today and was rewarded with lovely early-morning views over the Devon countryside. These are the first photos taken with my new iPhone 14 Pro.\n\n<img src=\"uploads/2023/img-0010.jpg\" alt=\"a photo of the sun shining through trees in a country lane\" title=\"IMG_0010.jpg\" border=\"1\" width=\"450\" height=\"600\" />\n\n<img src=\"uploads/2023/img-0011.jpg\" alt=\"photo of mist in flelds taken from above\" title=\"IMG_0011.jpg\" border=\"1\" width=\"599\" height=\"337\" />\n<p><em>iPhone 14 Pro, Lightroom app, processed in Lightroom Classic</em> 📷</p>\n",
+				"date_published": "2023-06-22T08:19:14+01:00",
+				"url": "https://keithpound.com/2023/06/22/i-was-out.html",
+				"tags": ["photography"]
+			},
+			{
 				"id": "http://KeithPound.micro.blog/2023/06/21/evening-walk-to.html",
 				
 				"content_html": "<p>Evening walk to Hope Cove 📷</p>\n<!-- raw HTML omitted -->\n",
@@ -36,7 +54,7 @@
 				"id": "http://KeithPound.micro.blog/2023/06/16/i-took-this.html",
 				
 				"content_html": "<p>I took this photo of St. Andrew&rsquo;s Church in Aveton Gifford, Devon, on this morning&rsquo;s walk with the dog. What a great way to start the day!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I took this photo of St. Andrew's Church in Aveton Gifford, Devon, on this morning's walk with the dog. What a great way to start the day!\n\n<img src=\"uploads/2023/041d298d2c.jpg\" alt=\"Photo of Aveton Gifford Church\" title=\"APC_0233.jpg\" border=\"0\" width=\"600\" height=\"450\" />\n<p><em>iPhone 11, Lightroom app, processed in Lightroom Classic</em> 📷</p>\n",
+				"content_text": "I took this photo of St. Andrew's Church in Aveton Gifford, Devon, on this morning's walk with the dog. What a great way to start the day!\n\n<img src=\"https://cdn.uploads.micro.blog/38545/2023/041d298d2c.jpg\" alt=\"Photo of Aveton Gifford Church\" title=\"APC_0233.jpg\" border=\"0\" width=\"600\" height=\"450\" />\n<p><em>iPhone 11, Lightroom app, processed in Lightroom Classic</em> 📷</p>\n",
 				"date_published": "2023-06-16T08:37:05+01:00",
 				"url": "https://keithpound.com/2023/06/16/i-took-this.html",
 				"tags": ["photography"]
