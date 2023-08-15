@@ -7,6 +7,33 @@
 	"items": [
 		
 			{
+				"id": "http://KeithPound.micro.blog/2023/08/13/todays-dog-walk.html",
+				
+				"content_html": "<p>Today’s dog walk was a 5-mile circular route from East Prawle, which is the southern most village in Devon. We enjoyed sea views for most of the walk, made even better when the sun finally broke through the clouds.</p>\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
+				"content_text": "Today’s dog walk was a 5-mile circular route from East Prawle, which is the southern most village in Devon. We enjoyed sea views for most of the walk, made even better when the sun finally broke through the clouds.\n\n<img src=\"uploads/2023/img-0091.jpg\" alt=\"photo of Allum Bay, South Devon\" title=\"IMG_0091.jpg\" border=\"1\" width=\"600\" height=\"450\" />\n\n<img src=\"uploads/2023/img-0094.jpg\" alt=\"photo of the sea and cliffs, South Devon\" title=\"IMG_0094.jpg\" border=\"1\" width=\"600\" height=\"450\" />\n\n<p><em>iPhone 14 Pro, Lightroom app, processed in Lightroom Classic</em> 📷</p>\n",
+				"date_published": "2023-08-13T18:42:00+01:00",
+				"url": "https://keithpound.com/2023/08/13/todays-dog-walk.html",
+				"tags": ["photography"]
+			},
+			{
+				"id": "http://KeithPound.micro.blog/2023/08/12/it-was-the.html",
+				
+				"content_html": "<p>It was the Aveton Gifford Village Show on Saturday. I was lucky enough to get a couple of second and third places. 🌱</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "It was the Aveton Gifford Village Show on Saturday. I was lucky enough to get a couple of second and third places. 🌱\n\n<img src=\"uploads/2023/img-0083.jpg\" alt=\"Photo of people viewing the entrants in the village flower show\" title=\"IMG_0083.jpg\" border=\"1\" width=\"600\" height=\"450\" />\n",
+				"date_published": "2023-08-12T18:35:00+01:00",
+				"url": "https://keithpound.com/2023/08/12/it-was-the.html",
+				"tags": ["allotment"]
+			},
+			{
+				"id": "http://KeithPound.micro.blog/2023/08/11/currently-listening-to.html",
+				
+				"content_html": "<p>Currently listening to the four singles taken from the new album, <!-- raw HTML omitted -->Carolyn&rsquo;s Boy<!-- raw HTML omitted --> from <!-- raw HTML omitted -->Darius Rucker<!-- raw HTML omitted --> planned for 6th October. I looking forward to listing to the rest of the album.</p>\n<!-- raw HTML omitted -->\n<blockquote>\n<p>“I wanted to name the record Carolyn’s Boy because Mom never got to see any of my success,” Rucker offered in the interview. “She died before any of this happened, so it’s just another homage to the greatest woman I’ve ever known.”\nWhen asked why he wanted to put this album out now, Rucker shared, “Years ago, I wasn’t really sure what my place in country music was and I was trying to find it. Now I have found it—I know—and I think it’s time to give that record.” 🎶</p>\n</blockquote>\n",
+				"content_text": "Currently listening to the four singles taken from the new album, <em>Carolyn's Boy</em> from <em>Darius Rucker</em> planned for 6th October. I looking forward to listing to the rest of the album.\n\n<img src=\"uploads/2023/darius-rucker-carolyns-boy-cover.png\" alt=\"Darius rucker carolyns boy cover\" title=\"darius-rucker-carolyns-boy-cover.png\" border=\"0\" width=\"512\" height=\"305\" />\n\n> “I wanted to name the record Carolyn’s Boy because Mom never got to see any of my success,” Rucker offered in the interview. “She died before any of this happened, so it’s just another homage to the greatest woman I’ve ever known.”\n> When asked why he wanted to put this album out now, Rucker shared, “Years ago, I wasn’t really sure what my place in country music was and I was trying to find it. Now I have found it—I know—and I think it’s time to give that record.” 🎶\n",
+				"date_published": "2023-08-11T16:30:27+01:00",
+				"url": "https://keithpound.com/2023/08/11/currently-listening-to.html",
+				"tags": ["music"]
+			},
+			{
 				"id": "http://KeithPound.micro.blog/2023/08/09/our-monthly-electricity.html",
 				
 				"content_html": "<p>Our monthly electricity direct debit went from £70 to £251 in March. Our supplier, E.ON, announced they&rsquo;d made £3.47 billion profit for the first 6 months of 2023. There&rsquo;s something wrong with how we manage our utilities in the UK. <a href=\"https://www.energylivenews.com/2022/08/10/e-on-makes-more-than-3bn-in-profit-in-first-six-months/\">Read more</a></p>\n",
