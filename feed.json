@@ -7,6 +7,33 @@
 	"items": [
 		
 			{
+				"id": "http://KeithPound.micro.blog/2023/09/09/day-language-mbsept.html",
+				
+				"content_html": "<p>Day 9: language #mbsept</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Day 9: language #mbsept\n\n\n\n<img src=\"uploads/2023/e950260181.jpg\" width=\"600\" height=\"436\" alt=\"\">\n",
+				"date_published": "2023-09-09T16:30:20+01:00",
+				"url": "https://keithpound.com/2023/09/09/day-language-mbsept.html",
+				"tags": ["photography","photoblog challenges"]
+			},
+			{
+				"id": "http://KeithPound.micro.blog/2023/09/08/day-yonder-mbsept.html",
+				
+				"content_html": "<p>Day 8: yonder #mbsept</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Day 8: yonder #mbsept\n\n<img src=\"uploads/2023/apc-0251.jpg\" alt=\"a photo of a view across the Aune Valley in South Devon\" title=\"Aune Valley\" border=\"1\" width=\"599\" height=\"337\" />\n<p><em>iPhone 14 Pro, processed in Lightroom Classic</em> 📷</p>\n",
+				"date_published": "2023-09-08T11:53:35+01:00",
+				"url": "https://keithpound.com/2023/09/08/day-yonder-mbsept.html",
+				"tags": ["photography","photoblog challenges"]
+			},
+			{
+				"id": "http://KeithPound.micro.blog/2023/09/07/day-panorama-mbsept.html",
+				
+				"content_html": "<p>Day 7: panorama #mbsept</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Day 7: panorama #mbsept\n\n<img src=\"uploads/2023/img-0140.jpg\" alt=\"a panorama of South Milton beach from a kayak\" title=\"IMG_0140.jpg\" border=\"0\" width=\"600\" height=\"193\" />\n<p><em>iPhone 14 Pro, Lightroom app, processed in Lightroom Classic</em> 📷</p>\n",
+				"date_published": "2023-09-07T08:45:00+01:00",
+				"url": "https://keithpound.com/2023/09/07/day-panorama-mbsept.html",
+				"tags": ["photography","photoblog challenges"]
+			},
+			{
 				"id": "http://KeithPound.micro.blog/2023/09/06/day-well-mbsept.html",
 				
 				"content_html": "<p>Day 6: well #mbsept</p>\n<!-- raw HTML omitted -->\n",
@@ -28,7 +55,7 @@
 				"id": "http://KeithPound.micro.blog/2023/09/04/day-orange-mbsept.html",
 				
 				"content_html": "<p>Day 4: orange #mbsept</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Day 4: orange #mbsept\n\n<img src=\"uploads/2023/img-0141-jpg.jpg\" alt=\"photo of the departure board at Reading train station\" title=\"IMG_0141_jpg.jpg\" border=\"0\" width=\"599\" height=\"378\" />\n",
+				"content_text": "Day 4: orange #mbsept\n\n<img src=\"https://cdn.uploads.micro.blog/38545/2023/img-0141-jpg.jpg\" alt=\"photo of the departure board at Reading train station\" title=\"IMG_0141_jpg.jpg\" border=\"0\" width=\"599\" height=\"378\" />\n",
 				"date_published": "2023-09-04T16:32:42+01:00",
 				"url": "https://keithpound.com/2023/09/04/day-orange-mbsept.html",
 				"tags": ["photography","photoblog challenges"]
@@ -37,7 +64,7 @@
 				"id": "http://KeithPound.micro.blog/2023/09/03/day-three-precious.html",
 				
 				"content_html": "<p>Day 3: precious #mbsept</p>\n<p>Beach day in September</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Day 3: precious #mbsept\n\nBeach day in September \n\n<img src=\"uploads/2023/e9f827102c.jpg\" width=\"600\" height=\"450\" alt=\"photo of South Milton beach\">\n",
+				"content_text": "Day 3: precious #mbsept\n\nBeach day in September \n\n<img src=\"https://cdn.uploads.micro.blog/38545/2023/e9f827102c.jpg\" width=\"600\" height=\"450\" alt=\"photo of South Milton beach\">\n",
 				"date_published": "2023-09-03T10:24:09+01:00",
 				"url": "https://keithpound.com/2023/09/03/day-three-precious.html",
 				"tags": ["photography","photoblog challenges"]
@@ -46,7 +73,7 @@
 				"id": "http://KeithPound.micro.blog/2023/09/02/day-buildup-mbsept.html",
 				
 				"content_html": "<p>Day 2: buildup #mbsept</p>\n<p>Waiting to be recycled</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Day 2: buildup #mbsept\n\nWaiting to be recycled \n\n<img src=\"uploads/2023/47970bef17.jpg\" width=\"450\" height=\"600\" alt=\"photo of Nespresso capsules waiting to be recy\">\n",
+				"content_text": "Day 2: buildup #mbsept\n\nWaiting to be recycled \n\n<img src=\"https://cdn.uploads.micro.blog/38545/2023/47970bef17.jpg\" width=\"450\" height=\"600\" alt=\"photo of Nespresso capsules waiting to be recy\">\n",
 				"date_published": "2023-09-02T20:31:32+01:00",
 				"url": "https://keithpound.com/2023/09/02/day-buildup-mbsept.html",
 				"tags": ["photoblog challenges"]
