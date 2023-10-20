@@ -7,12 +7,21 @@
 	"items": [
 		
 			{
-				"id": "http://KeithPound.micro.blog/2023/10/09/sunday-started-at.html",
+				"id": "http://KeithPound.micro.blog/2023/10/20/currently-listening-to.html",
+				
+				"content_html": "<p>Currently listening to &hellip; <!-- raw HTML omitted -->Ozarker<!-- raw HTML omitted --> from <!-- raw HTML omitted -->Israel Nash<!-- raw HTML omitted --> 🎶</p>\n<!-- raw HTML omitted -->\n<p><!-- raw HTML omitted -->Listen on Spotify<!-- raw HTML omitted --></p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Currently listening to ... <em>Ozarker</em> from <em>Israel Nash</em> 🎶\n\n<img src=\"uploads/2023/israel-nash-ozarker.png\" alt=\"Israel nash ozarker image\" title=\"israel-nash-ozarker.png\" border=\"1\" width=\"598\" height=\"220\" />\n\n<a href=\"https://open.spotify.com/album/4EctKUAtvhsNATnKHBqSxj?si=-kxPW3mkRwaUaWGubEbIqQ\">Listen on Spotify</a>\n\n<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/album/4EctKUAtvhsNATnKHBqSxj?utm_source=generator\" width=\"100%\" height=\"152\" frameBorder=\"0\" allowfullscreen=\"\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>\n",
+				"date_published": "2023-10-20T15:51:37+01:00",
+				"url": "https://keithpound.com/2023/10/20/currently-listening-to.html",
+				"tags": ["music"]
+			},
+			{
+				"id": "http://KeithPound.micro.blog/2023/10/08/sunday-started-at.html",
 				
 				"content_html": "<p>Sunday started at the pumpkin patch and finished on the beach.</p>\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
 				"content_text": "Sunday started at the pumpkin patch and finished on the beach.\n\n<img src=\"uploads/2023/img-0173.jpg\" alt=\"photo of a large pumpkin patch\" title=\"IMG_0173.jpg\" border=\"1\" width=\"600\" height=\"450\" />\n\n<img src=\"uploads/2023/img-0174.jpg\" alt=\"photo of a beach\" title=\"IMG_0174.jpg\" border=\"1\" width=\"599\" height=\"337\" />\n\n<p><em>iPhone 14 Pro, Lightroom app, processed in Lightroom Classic</em> 📷</p>\n",
-				"date_published": "2023-10-09T09:05:17+01:00",
-				"url": "https://keithpound.com/2023/10/09/sunday-started-at.html",
+				"date_published": "2023-10-08T18:05:00+01:00",
+				"url": "https://keithpound.com/2023/10/08/sunday-started-at.html",
 				"tags": ["photography"]
 			},
 			{
@@ -73,7 +82,7 @@
 				"id": "http://KeithPound.micro.blog/2023/09/07/day-panorama-mbsept.html",
 				
 				"content_html": "<p>Day 7: panorama #mbsept</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Day 7: panorama #mbsept\n\n<img src=\"uploads/2023/img-0140.jpg\" alt=\"a panorama of South Milton beach from a kayak\" title=\"IMG_0140.jpg\" border=\"0\" width=\"600\" height=\"193\" />\n<p><em>iPhone 14 Pro, Lightroom app, processed in Lightroom Classic</em> 📷</p>\n",
+				"content_text": "Day 7: panorama #mbsept\n\n<img src=\"https://cdn.uploads.micro.blog/38545/2023/img-0140.jpg\" alt=\"a panorama of South Milton beach from a kayak\" title=\"IMG_0140.jpg\" border=\"0\" width=\"600\" height=\"193\" />\n<p><em>iPhone 14 Pro, Lightroom app, processed in Lightroom Classic</em> 📷</p>\n",
 				"date_published": "2023-09-07T08:45:00+01:00",
 				"url": "https://keithpound.com/2023/09/07/day-panorama-mbsept.html",
 				"tags": ["photography","photoblog challenges"]
