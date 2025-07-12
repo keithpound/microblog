@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://KeithPound.micro.blog/2025/07/12/its-not-every-day-you.html",
+				
+				"content_html": "<p>It’s not every day you find a Henry VIII silver groat in the garden.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "It’s not every day you find a Henry VIII silver groat in the garden.\n\n\n<img src=\"uploads/2025/d21703db8a.jpg\" alt=\"Auto-generated description: A weathered coin featuring a worn depiction of a face surrounded by barely legible text rests on a textured white surface.\">\n",
+				"date_published": "2025-07-12T21:48:55+01:00",
+				"url": "https://keithpound.com/2025/07/12/its-not-every-day-you.html",
+				"tags": ["photography"]
+			},
+			{
 				"id": "http://KeithPound.micro.blog/2025/06/06/day-contrast-canon-eos-m.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
@@ -64,7 +73,7 @@
 				"id": "http://KeithPound.micro.blog/2025/04/27/after-a-busy-saturday-it.html",
 				
 				"content_html": "<p>After a busy Saturday, it was great to get out of the house and do one of our favourite walks from Bulberry Head to Hope Cove, Devon.</p>\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<p>#devon</p>\n",
-				"content_text": "After a busy Saturday, it was great to get out of the house and do one of our favourite walks from Bulberry Head to Hope Cove, Devon.\n\n<img src=\"uploads/2025/img-0715.jpeg\" width=\"600\" height=\"450\" alt=\"Auto-generated description: A scenic coastal landscape features a grassy field with wildflowers, bushes, and a tranquil view of the sea under a clear blue sky, taken on Bulberry Head, Devon, uk\">\n\n<img src=\"uploads/2025/img-0717.jpeg\" width=\"600\" height=\"450\" alt=\"a scenic view looking down on Hope Cove, Devon, uk\">\n\n#devon\n",
+				"content_text": "After a busy Saturday, it was great to get out of the house and do one of our favourite walks from Bulberry Head to Hope Cove, Devon.\n\n<img src=\"https://cdn.uploads.micro.blog/38545/2025/img-0715.jpeg\" width=\"600\" height=\"450\" alt=\"Auto-generated description: A scenic coastal landscape features a grassy field with wildflowers, bushes, and a tranquil view of the sea under a clear blue sky, taken on Bulberry Head, Devon, uk\">\n\n<img src=\"https://cdn.uploads.micro.blog/38545/2025/img-0717.jpeg\" width=\"600\" height=\"450\" alt=\"a scenic view looking down on Hope Cove, Devon, uk\">\n\n#devon\n",
 				"date_published": "2025-04-27T19:00:00+01:00",
 				"url": "https://keithpound.com/2025/04/27/after-a-busy-saturday-it.html",
 				"tags": ["photography"]
