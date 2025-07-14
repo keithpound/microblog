@@ -7,10 +7,19 @@
 	"items": [
 		
 			{
+				"id": "http://KeithPound.micro.blog/2025/07/13/on-the-water-at-this.html",
+				
+				"content_html": "<p>On the water at 8:30 this morning to catch the tide</p>\n<p><img src=\"https://keithpound.com/uploads/2025/image-20250713-145928-e41e7f34.jpg\" alt=\"An image of a river taken from a kayak \"></p>\n",
+				"content_text": "On the water at 8:30 this morning to catch the tide\n\n![An image of a river taken from a kayak ](https://keithpound.com/uploads/2025/image-20250713-145928-e41e7f34.jpg)\n",
+				"date_published": "2025-07-13T14:59:38+01:00",
+				"url": "https://keithpound.com/2025/07/13/on-the-water-at-this.html",
+				"tags": ["photography"]
+			},
+			{
 				"id": "http://KeithPound.micro.blog/2025/07/12/its-not-every-day-you.html",
 				
-				"content_html": "<p>It’s not every day you find a Henry VIII silver groat in the garden.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "It’s not every day you find a Henry VIII silver groat in the garden.\n\n\n<img src=\"uploads/2025/d21703db8a.jpg\" alt=\"Auto-generated description: A weathered coin featuring a worn depiction of a face surrounded by barely legible text rests on a textured white surface.\">\n",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>It’s not every day you find a Henry VIII silver groat in the garden.</p>\n<p><img title=\"IMG_E0784.jpg\" src=\"https://keithpound.com/uploads/2025/img-e0784.jpg\" alt=\"a photo of a coin from the reign of henry viii\" width=\"600\" height=\"600\" border=\"0\" /></p>\n<p> </p>\n<p><img title=\"IMG_E0783.jpg\" src=\"https://keithpound.com/uploads/2025/img-e0783.jpg\" alt=\"a photo of a coin from the reign of henry viii\" width=\"600\" height=\"600\" border=\"0\" /></p>\n",
 				"date_published": "2025-07-12T21:48:55+01:00",
 				"url": "https://keithpound.com/2025/07/12/its-not-every-day-you.html",
 				"tags": ["photography"]
@@ -46,7 +55,7 @@
 				"id": "http://KeithPound.micro.blog/2025/06/02/day-two-curve-iphone-pro.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p>Day Two: Curve</p>\n<p><img title=\"IMG_1952.jpg\" src=\"https://keithpound.com/uploads/2025/img-1952.jpg\" alt=\"a photo of a beach with palm trees\" width=\"600\" height=\"450\" border=\"0\" /></p>\n<p>iPhone 14 Pro, processed in ON1 Photo RAW 2025</p>\n<p>📷 #mbjune</p>\n",
+				"content_text": "<p>Day Two: Curve</p>\n<p><img title=\"IMG_1952.jpg\" src=\"https://cdn.uploads.micro.blog/38545/2025/img-1952.jpg\" alt=\"a photo of a beach with palm trees\" width=\"600\" height=\"450\" border=\"0\" /></p>\n<p>iPhone 14 Pro, processed in ON1 Photo RAW 2025</p>\n<p>📷 #mbjune</p>\n",
 				"date_published": "2025-06-02T09:23:08+01:00",
 				"url": "https://keithpound.com/2025/06/02/day-two-curve-iphone-pro.html",
 				"tags": ["photography","photoblog challenges"]
@@ -64,7 +73,7 @@
 				"id": "http://KeithPound.micro.blog/2025/05/10/this-guy-woke-is-up.html",
 				
 				"content_html": "<p>This guy woke us at 5am this morning. Who knew that peacocks sat in trees?</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "This guy woke us at 5am this morning. Who knew that peacocks sat in trees?\n\n\n\n<img src=\"uploads/2025/3e38467aa6.jpg\" width=\"600\" height=\"600\" alt=\"a photo of a male peacock sitting in a tree\">\n",
+				"content_text": "This guy woke us at 5am this morning. Who knew that peacocks sat in trees?\n\n\n\n<img src=\"https://cdn.uploads.micro.blog/38545/2025/3e38467aa6.jpg\" width=\"600\" height=\"600\" alt=\"a photo of a male peacock sitting in a tree\">\n",
 				"date_published": "2025-05-10T17:25:39+01:00",
 				"url": "https://keithpound.com/2025/05/10/this-guy-woke-is-up.html",
 				"tags": ["photography"]
