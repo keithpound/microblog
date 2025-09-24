@@ -1,0 +1,20 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "Life \u0026 Times",
+	"icon": "https://avatars.micro.blog/avatars/2021/74218.jpg",
+	"home_page_url": "https://keithpound.com/",
+	"feed_url": "https://keithpound.com/podcast.json",
+	"_podcast": {
+		"about": "https://jsonfeed.org/podcasting",
+		"image": "https://micro.blog/keithpound/podcast.png",
+		"explicit": false,
+		"categories": [
+			{
+				"category": "Society \u0026 Culture",
+				"subcategory": "Personal Journals"
+			}
+		]
+	},
+	"items": [
+	]
+}

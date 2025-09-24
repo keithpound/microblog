@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+	<channel>
+		<atom:link href="https://keithpound.com/podcast.xml" rel="self" type="application/rss+xml" />
+		<title>Life &amp; Times</title>
+		<link>https://keithpound.com/</link>
+		<description>During the day, I run the sales and marketing team for an IT software and services company. In the actual world, I’m married to Janet, have two grown-up kids and a barking-mad springer/poodle cross called Parker. I take photos, make our garden wildlife-friendly, drink wine, and listen to music. We live in South #Devon</description>
+		<copyright>Copyright 2025 Keith Pound</copyright>
+		<itunes:image href="https://micro.blog/keithpound/podcast.png" />
+		<itunes:category text="Society &amp; Culture">
+			<itunes:category text="Personal Journals"></itunes:category>
+		</itunes:category>
+		<itunes:author>Keith Pound</itunes:author>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:owner>
+			<itunes:name>Keith Pound</itunes:name>
+			<itunes:email></itunes:email>
+		</itunes:owner>
+		
+			<language>en</language>
+		
+		<lastBuildDate>Tue, 15 Jul 2025 16:58:00 +0100</lastBuildDate>
+	</channel>
+</rss>
