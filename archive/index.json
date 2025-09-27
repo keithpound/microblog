@@ -6,6 +6,13 @@
 	"feed_url": "https://keithpound.com/photos/index.json",
 	"items": [
 			{
+				"id": "https://keithpound.com/2025/09/24/todays-office.html",
+				"title": "",
+				"content_text": "Today’s office",
+				"date_published": "2025-09-24T10:30:37+01:00",
+				"url": "https://keithpound.com/2025/09/24/todays-office.html"
+			},
+			{
 				"id": "https://keithpound.com/2025/07/15/petition-to-protect-rural-post.html",
 				"title": "Petition to Protect Rural Post Offices",
 				"content_text": "Our post office and the one in the neighbouring village have closed in recent months, which harms …",
