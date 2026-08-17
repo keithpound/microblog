@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://KeithPound.micro.blog/2026/08/17/todays-office.html",
+				
+				"content_html": "<p>Today’s office</p>\n<p><img src=\"https://keithpound.com/uploads/2026/image-20260817-183033-061ecc2e.jpg\" alt=\"View of an outboard motor on the Avon near Aveton Gifford, Devon\"></p>\n",
+				"content_text": "Today’s office\n\n\n![View of an outboard motor on the Avon near Aveton Gifford, Devon](https://keithpound.com/uploads/2026/image-20260817-183033-061ecc2e.jpg)\n",
+				"date_published": "2026-08-17T18:30:37+01:00",
+				"url": "https://keithpound.com/2026/08/17/todays-office.html",
+				"tags": ["photography"]
+			},
+			{
 				"id": "http://KeithPound.micro.blog/2026/07/03/the-view-from-todays-office.html",
 				
 				"content_html": "<p>The view from today’s office</p>\n<img src=\"uploads/2026/ca84512d96.jpg\" alt=\"\">\n",
